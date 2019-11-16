@@ -1,0 +1,79 @@
+
+
+
+
+.card-deck{
+    margin-top: 5%;
+}
+
+.card {
+    border: none;
+}
+
+.card-img-top{
+    height: auto;
+    width: 300px;
+    box-shadow:0 0 10px #000000;
+}
+#awardCard{
+    width: 1602px;
+margin-left: -13%;
+}
+#awardsTitle{
+    color: orange;
+    margin-top: 10%;
+    font-size: 75px;
+}
+.card-img-top:hover{
+    height: auto;
+    width: 500px;
+    position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+  z-index: 3000;
+  
+}
+
+
+
+.navbar-brand{
+    width: 12% !important;
+    background-color: transparent !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+    margin-right: 175px;
+}
+
+
+
+
+.bg-dark {
+background-color: transparent !important; 
+}
+.mr-auto{
+    width: max-content;
+}
+
+#smalllogo{
+    width: 25%;
+}
+
+h1{
+    margin-left: 30%;
+    color: lemonchiffon;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 60px;
+}
+.list-group-flush .list-group-item {
+    border-right: 0;
+    border-left: 0;
+    border-radius: 0;
+    background-color: transparent;
+    color: white;
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-size: 20px;
+}
